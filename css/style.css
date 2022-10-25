@@ -1,0 +1,88 @@
+body{
+    margin: 0 auto;
+    background-image: url(https://delicadoeventos.com/wp-content/uploads/2017/05/fondo-formulario.jpg);
+    background-repeat: no-repeat; 
+    text-align: center; 
+    color: white;
+}
+
+#caja{
+    padding-left: 20%;
+    width: 60%;
+    height: 45px;
+    padding-bottom: 20px;
+}
+select{
+    width: 170px;
+}
+.l{
+    float: left;
+}
+.r{
+    float: right;
+}
+.cb{
+    clear: both;
+}
+#p_codigopostal{
+    color: red;
+}
+#p_codigotelefono{
+    color: red;
+}
+#p_nombre{
+    color: red;
+}
+#p_apellidos{
+    color: red;
+}
+#p_edad{
+    color: red;
+}
+#p_numerodecuenta{
+    color: red;
+}
+#p_tarjetadecredito{
+    color: red;
+}
+#p_usuario{
+    color: red;
+}
+#p_contraseña{
+    color: red;
+}
+#p_contraseña2{
+    color: red;
+}
+#p_repcontraseña{
+    color: red;
+}
+#p_numerofavorito{
+    color: red;
+}
+#p_dni{
+    color: red;
+}
+#p_calle{
+    color: red;
+}
+#p_paginawebfavorita{
+    color: red;
+}
+#p_fecha{
+    color: red;
+}
+#p_numeroreal{
+    color: red;
+}
+#p_email{
+    color: red;
+}
+#p_leyes{
+    color: red;
+}
+button{
+    background-color: aquamarine;
+    width: 80px;
+    height: 40px;
+}
